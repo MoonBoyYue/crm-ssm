@@ -9,7 +9,7 @@ public class Contacts {
 	private String name;
 	private String appellation;
 	private String email;
-	private String phone;
+	private String mphone;
 	private String job;
 	private String birth;
 	private String createBy;

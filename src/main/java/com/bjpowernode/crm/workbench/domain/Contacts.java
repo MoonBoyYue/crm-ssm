@@ -6,10 +6,10 @@ public class Contacts {
 	private String owner;
 	private String source;
 	private String customerId;
-	private String fullname;
+	private String name;
 	private String appellation;
 	private String email;
-	private String mphone;
+	private String phone;
 	private String job;
 	private String birth;
 	private String createBy;
